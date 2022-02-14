@@ -1,1 +1,1 @@
-eba90346-8dc8-11ec-962a-525400a6db15
+fn main() { println!("I'm a Rust rockstar now, look at me."); }
